@@ -1,0 +1,22 @@
+{
+  "name": "vue-cli",
+  "version": "1.0.0",
+  "description": "vue-cli搭建项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liziwangrui/vue-cli.git"
+  },
+  "keywords": [
+    "vue-cli"
+  ],
+  "author": "wangrui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liziwangrui/vue-cli/issues"
+  },
+  "homepage": "https://github.com/liziwangrui/vue-cli#readme"
+}
